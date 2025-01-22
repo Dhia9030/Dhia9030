@@ -6,8 +6,8 @@ I'm always eager to explore the ever-evolving world of technology. 🚀
 
 ## 💼 Skills:
 - <b> Competitive Programming: </b>C/C++
-- Java, Python
-- <b>Web Development:</b> JavaScript, HTML, CSS, PHP (Symfony)
+- Java, Python , C#
+- <b>Web Development:</b> JavaScript, HTML, CSS, PHP (Symfony) , ReactJS , .NET
 
 ## 🌱 Current Projects:
 Currently, I'm working on personal Web projects to elevate my skills and delve into useful frameworks. 🔭
