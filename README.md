@@ -24,9 +24,7 @@ I'm always eager to explore the ever-evolving world of technology. 🚀
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   </a>
-
 <br/><br/>
-
 <b>Web Development:</b> 
 <span style="display: flex; align-items: center; gap: 10px;">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="text-decoration: none;">
