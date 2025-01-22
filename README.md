@@ -13,7 +13,8 @@ I'm always eager to explore the ever-evolving world of technology. 🚀
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer" style="text-decoration: none;">
+</span>
+<a href="https://www.java.com" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration: none;">
@@ -22,7 +23,6 @@ I'm always eager to explore the ever-evolving world of technology. 🚀
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   </a>
-</span>
 
 <br/><br/>
 
