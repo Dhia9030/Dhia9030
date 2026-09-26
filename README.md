@@ -17,7 +17,7 @@
 
 ## PROFILE
 
-Software Engineering student at INSAT, passionate about AI — with a particular interest in agents, voice, and 3D, and how each of these fields intersects with AI.
+Software Engineering student at INSAT, passionate about AI with a particular interest in agents, voice, and 3D, and how each of these fields intersects with AI.
 
 <br/>
 
